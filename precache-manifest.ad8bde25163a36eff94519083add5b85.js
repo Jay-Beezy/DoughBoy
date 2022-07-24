@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "c82e021bd55bcd667894bfdcc95dc7e2",
-    "url": "/static/media/shrikhand-latin-400.c82e021b.woff2"
-  },
-  {
     "revision": "9cb149a91dea4f7eb734ba3a29569de1",
     "url": "/static/media/shrikhand-latin-400.9cb149a9.woff"
   },
   {
-    "revision": "f2de0cbee0d43bf943a03ae0a0aab9dc",
+    "revision": "c82e021bd55bcd667894bfdcc95dc7e2",
+    "url": "/static/media/shrikhand-latin-400.c82e021b.woff2"
+  },
+  {
+    "revision": "3696c4a5d16347e3ac923f2d1dab12aa",
     "url": "/index.html"
   }
 ];
