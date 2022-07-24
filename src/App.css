@@ -1,38 +1,53 @@
-.App {
-  text-align: center;
+.title {
+  font-size: 175%;
+  font-family: 'Shrikhand', cursive;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #e2ec4e;
+  padding: 20px 0px;
+  margin: auto;
+  max-width: max-content;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.ag-header-cell-label {
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+.AgGridReact {
+  --ag-background-color: #128b22;
+  --ag-odd-row-background-color: #128b22;
+  --ag-header-background-color: #128b22;
+  --ag-header-foreground-color: #e2ec4e;
+  --ag-border-color: #e2ec4e;
+  --ag-secondary-border-color: #e2ec4e;
+  font-family: 'Amaranth', sans-serif !important;
+  text-align: center;
+  width: 100%;
+  height: 500px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button {
+  background-color: #128b22;
+  border: 3px solid #e2ec4e;
+  color: #e2ec4e;
+  padding: 15px 109px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  font-family: 'Amaranth', sans-serif;
+}
+
+.windowText {
+  font-family: 'Amaranth', sans-serif;
+  color: #e2ec4e;
+  padding: 5px 5px;
+  text-align: center; 
+}
+
+input {
+  padding: 2.5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: #e2ec4e;
 }
