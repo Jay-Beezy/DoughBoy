@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DoughBoy/precache-manifest.3db515c45a0ec9c45834c8610f3c82b7.js"
+  "/DoughBoy/precache-manifest.cb021ad22aa4b455ed3f7f5718ec6617.js"
 );
 
 workbox.clientsClaim();

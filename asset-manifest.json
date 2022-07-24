@@ -1,16 +1,16 @@
 {
-  "main.css": "/DoughBoy/static/css/main.27a7b25c.chunk.css",
-  "main.js": "/DoughBoy/static/js/main.ef9238a7.chunk.js",
-  "main.js.map": "/DoughBoy/static/js/main.ef9238a7.chunk.js.map",
+  "main.css": "/DoughBoy/static/css/main.04f22c1a.chunk.css",
+  "main.js": "/DoughBoy/static/js/main.5a7d86a4.chunk.js",
+  "main.js.map": "/DoughBoy/static/js/main.5a7d86a4.chunk.js.map",
   "static/css/1.303e90b6.chunk.css": "/DoughBoy/static/css/1.303e90b6.chunk.css",
   "static/js/1.14e5fcc5.chunk.js": "/DoughBoy/static/js/1.14e5fcc5.chunk.js",
   "static/js/1.14e5fcc5.chunk.js.map": "/DoughBoy/static/js/1.14e5fcc5.chunk.js.map",
   "runtime~main.js": "/DoughBoy/static/js/runtime~main.02aa2711.js",
   "runtime~main.js.map": "/DoughBoy/static/js/runtime~main.02aa2711.js.map",
-  "static/media/index.css": "/DoughBoy/static/media/shrikhand-latin-400.c82e021b.woff2",
-  "static/css/main.27a7b25c.chunk.css.map": "/DoughBoy/static/css/main.27a7b25c.chunk.css.map",
+  "static/media/index.css": "/DoughBoy/static/media/shrikhand-latin-400.9cb149a9.woff",
   "static/css/1.303e90b6.chunk.css.map": "/DoughBoy/static/css/1.303e90b6.chunk.css.map",
+  "static/css/main.04f22c1a.chunk.css.map": "/DoughBoy/static/css/main.04f22c1a.chunk.css.map",
   "index.html": "/DoughBoy/index.html",
-  "precache-manifest.3db515c45a0ec9c45834c8610f3c82b7.js": "/DoughBoy/precache-manifest.3db515c45a0ec9c45834c8610f3c82b7.js",
+  "precache-manifest.cb021ad22aa4b455ed3f7f5718ec6617.js": "/DoughBoy/precache-manifest.cb021ad22aa4b455ed3f7f5718ec6617.js",
   "service-worker.js": "/DoughBoy/service-worker.js"
 }
