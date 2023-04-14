@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5a7d86a48295a5421691",
+    "revision": "5508259daa5f7ec7d4dd",
     "url": "/static/css/main.04f22c1a.chunk.css"
   },
   {
-    "revision": "5a7d86a48295a5421691",
-    "url": "/static/js/main.5a7d86a4.chunk.js"
+    "revision": "5508259daa5f7ec7d4dd",
+    "url": "/static/js/main.5508259d.chunk.js"
   },
   {
     "revision": "7d9504b57e8feadddb7b",
@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "9cb149a91dea4f7eb734ba3a29569de1",
-    "url": "/static/media/shrikhand-latin-400.9cb149a9.woff"
-  },
-  {
     "revision": "c82e021bd55bcd667894bfdcc95dc7e2",
     "url": "/static/media/shrikhand-latin-400.c82e021b.woff2"
   },
   {
-    "revision": "3696c4a5d16347e3ac923f2d1dab12aa",
+    "revision": "9cb149a91dea4f7eb734ba3a29569de1",
+    "url": "/static/media/shrikhand-latin-400.9cb149a9.woff"
+  },
+  {
+    "revision": "52561b1383ad7c5edbdcc6de14ee5ece",
     "url": "/index.html"
   }
 ];
