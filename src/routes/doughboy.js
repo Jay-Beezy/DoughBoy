@@ -107,7 +107,6 @@ class DoughBoy extends React.Component{
     */
 
     render() {
-        const {showModal} = this.props;
         return (
             <React.Fragment>
             <div className="title">
